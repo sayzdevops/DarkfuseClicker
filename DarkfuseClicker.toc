@@ -1,0 +1,8 @@
+## Interface: 120001
+## Title: DarkfuseClicker
+## Notes: Auto-selects gossip option on Darkfuse Instigator for GOLEM rep farming
+## Author: Sayz
+## Version: @project-version@
+## IconTexture: Interface\Icons\INV_Misc_Gear_01
+
+DarkfuseClicker.lua

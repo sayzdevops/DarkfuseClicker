@@ -1,0 +1,12 @@
+package-as: DarkfuseClicker
+
+manual-changelog:
+  filename: CHANGELOG.md
+  markup-type: markdown
+
+ignore:
+  - "*.md"
+  - "*.yml"
+  - "*.yaml"
+  - .github
+  - .gitignore
