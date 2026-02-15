@@ -4,5 +4,6 @@
 ## Author: Sayz
 ## Version: @project-version@
 ## IconTexture: Interface\Icons\INV_Misc_Gear_01
+## X-Curse-Project-ID: 1463112
 
 DarkfuseClicker.lua
